@@ -86,5 +86,6 @@ Ctrl + Shift + ^ - Formato exponencial <br>
 Ctrl + Shift + & - Coloque el borde del contorno alrededor de las celdas seleccionadas <br>
 Ctrl + Shift + _ - Eliminar el borde del contorno <br>
 Ctrl + Shift + * - Seleccione la región actual <br>
+Ctrl + Shift + N: Crea una nueva carpeta en el explorador <br>
 
 
